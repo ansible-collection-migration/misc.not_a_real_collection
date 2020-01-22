@@ -1,0 +1,14 @@
+namespace: misc
+name: not_a_real_collection
+version: 1.0.0
+readme: README.md
+authors: null
+description: null
+license: null
+license_file: null
+tags: null
+dependencies: {}
+repository: git@github.com:ansible-collection-migration/misc.not_a_real_collection.git
+documentation: https://github.com/ansible-collection-migration/misc.not_a_real_collection/tree/master/docs
+homepage: https://github.com/ansible-collection-migration/misc.not_a_real_collection
+issues: https://github.com/ansible-collection-migration/misc.not_a_real_collection/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc
